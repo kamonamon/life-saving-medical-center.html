@@ -73,7 +73,7 @@
         <a href="#contact" class="nav-link font-medium hover:text-teal-700">Contact</a>
       </div>
       
-      <a href="https://wa.me/256750691930" target="_blank" 
+      <a href="https://wa.me/256750691030" target="_blank" 
          class="bg-teal-600 hover:bg-teal-700 text-white px-6 py-3 rounded-full flex items-center gap-2 font-medium transition-all">
         <i class="fab fa-whatsapp"></i> WhatsApp Us
       </a>
@@ -212,7 +212,7 @@
           <p class="text-teal-600 font-medium">Per Consultation</p>
         </div>
         
-        <a href="https://wa.me/256750691930" target="_blank"
+        <a href="https://wa.me/256750691030" target="_blank"
            class="inline-flex items-center gap-4 bg-teal-600 hover:bg-teal-700 text-white text-xl font-semibold px-14 py-6 rounded-2xl transition-all">
           <i class="fab fa-whatsapp text-4xl"></i>
           <span>Book Online Consultation Now</span>
